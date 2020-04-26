@@ -95,6 +95,7 @@ local primary_addrs = {
 		{'ath79', 'generic', {
 			'glinet,gl-ar750s-nor',
 			'ocedo,raccoon',
+			'tplink,archer-d50-v1',
 		}},
 		{'brcm2708'},
 		{'ipq40xx', 'generic', {
